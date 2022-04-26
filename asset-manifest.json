@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aeshtech/eGita/static/css/main.813e8037.css",
+    "main.js": "/Aeshtech/eGita/static/js/main.d3b77bab.js",
+    "index.html": "/Aeshtech/eGita/index.html",
+    "main.813e8037.css.map": "/Aeshtech/eGita/static/css/main.813e8037.css.map",
+    "main.d3b77bab.js.map": "/Aeshtech/eGita/static/js/main.d3b77bab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.813e8037.css",
+    "static/js/main.d3b77bab.js"
+  ]
+}
