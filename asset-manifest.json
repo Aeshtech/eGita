@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aeshtech/eGita/static/css/main.813e8037.css",
-    "main.js": "/Aeshtech/eGita/static/js/main.d3b77bab.js",
-    "index.html": "/Aeshtech/eGita/index.html",
-    "main.813e8037.css.map": "/Aeshtech/eGita/static/css/main.813e8037.css.map",
-    "main.d3b77bab.js.map": "/Aeshtech/eGita/static/js/main.d3b77bab.js.map"
+    "main.css": "/eGita/static/css/main.813e8037.css",
+    "main.js": "/eGita/static/js/main.0dd9c21a.js",
+    "index.html": "/eGita/index.html",
+    "main.813e8037.css.map": "/eGita/static/css/main.813e8037.css.map",
+    "main.0dd9c21a.js.map": "/eGita/static/js/main.0dd9c21a.js.map"
   },
   "entrypoints": [
     "static/css/main.813e8037.css",
-    "static/js/main.d3b77bab.js"
+    "static/js/main.0dd9c21a.js"
   ]
 }
